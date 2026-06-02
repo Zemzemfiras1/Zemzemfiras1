@@ -3,7 +3,10 @@
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/FirasZemzeeem) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/firaszemzem) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ZemzemFiras) 
+[![Docker Hub](https://img.shields.io/badge/Docker%20Hub-2496ED.svg?logo=docker&logoColor=white)](https://hub.docker.com/u/firaszemzem)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/firaszemzem)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB.svg?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Firas-Zemzem?ev=hdr_xprf)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ZemzemFiras)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
