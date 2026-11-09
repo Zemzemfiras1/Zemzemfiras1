@@ -108,12 +108,13 @@ class FirasZemzem:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Zemzemfiras1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zemzemfiras1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
+<img height="180" src="profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats"/>
+<img height="180" src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most used languages"/>
 
 <img src="https://streak-stats.demolab.com?user=Zemzemfiras1&theme=tokyonight&hide_border=true" alt="Streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zemzemfiras1&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="100%"/>
+<img height="180" src="profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time"/>
+<img height="180" src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language"/>
 
 </div>
 
